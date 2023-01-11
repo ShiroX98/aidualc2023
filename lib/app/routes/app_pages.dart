@@ -36,6 +36,8 @@ import '../modules/singersAdd/bindings/singers_add_binding.dart';
 import '../modules/singersAdd/views/singers_add_view.dart';
 import '../modules/tamborineAdd/bindings/tamborine_add_binding.dart';
 import '../modules/tamborineAdd/views/tamborine_add_view.dart';
+import '../modules/testPage/bindings/test_page_binding.dart';
+import '../modules/testPage/views/test_page_view.dart';
 import '../modules/user/bindings/user_binding.dart';
 import '../modules/user/views/user_view.dart';
 import '../modules/worshipLeadAdd/bindings/worship_lead_add_binding.dart';
@@ -148,6 +150,11 @@ class AppPages {
       name: _Paths.JEMAAT_DETAIL,
       page: () => JemaatDetailView(),
       binding: JemaatDetailBinding(),
+    ),
+    GetPage(
+      name: _Paths.TEST_PAGE,
+      page: () => TestPageView(),
+      binding: TestPageBinding(),
     ),
   ];
 }

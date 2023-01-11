@@ -24,6 +24,7 @@ abstract class Routes {
   static const WORSHIP_LEAD_ADD = _Paths.WORSHIP_LEAD_ADD;
   static const ASHER_ADD = _Paths.ASHER_ADD;
   static const JEMAAT_DETAIL = _Paths.JEMAAT_DETAIL;
+  static const TEST_PAGE = _Paths.TEST_PAGE;
 }
 
 abstract class _Paths {
@@ -48,4 +49,5 @@ abstract class _Paths {
   static const WORSHIP_LEAD_ADD = '/worship-lead-add';
   static const ASHER_ADD = '/asher-add';
   static const JEMAAT_DETAIL = '/jemaat-detail';
+  static const TEST_PAGE = '/test-page';
 }
