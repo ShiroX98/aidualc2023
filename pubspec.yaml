@@ -1,0 +1,29 @@
+name: flutter_claudia
+version: 1.0.0+1
+publish_to: none
+description: A new Flutter project.
+environment: 
+  sdk: '>=2.16.1 <3.3.0'
+
+dependencies: 
+  cloud_firestore: 4.2.0
+  cupertino_icons: ^1.0.2
+  firebase_auth: 4.2.0
+  firebase_core: 2.4.1
+  firebase_storage: 11.0.7
+  get: 4.6.5
+  get_storage: 2.0.3
+  intl: ^0.17.0
+  dropdown_search: 5.0.5
+  # firebase_messaging: 14.2.1
+  flutter: 
+    sdk: flutter
+
+dev_dependencies: 
+  flutter_lints: ^1.0.0
+  flutter_test: 
+    sdk: flutter
+
+flutter: 
+  uses-material-design: true
+

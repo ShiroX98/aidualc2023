@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "410504798591",
+    "project_id": "claudiata-5276e",
+    "storage_bucket": "claudiata-5276e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:410504798591:android:d87f122ffd8f33406eba4a",
+        "android_client_info": {
+          "package_name": "com.example.flutter_claudia"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "410504798591-680q922blmtifh8hehovbloqeihnaui5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBj7zNvFJvrZA2F2APh0kpYPniISpqiRCk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "410504798591-680q922blmtifh8hehovbloqeihnaui5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
